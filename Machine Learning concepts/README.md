@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 
 1. Linear Regression :
     Modèle (features, target), Fonction coùt (erreur quadratique moyenne), Gradient, Descente de Gradient
