@@ -6,11 +6,12 @@
 2. Scipy
 
 3. Time Series ou Séries temporelles :
-    Resample, Moving Average ou Rolling, Exp Weighted Function ou Moyenne mobile exponentielle, Turtle Strategy
+    Shift, Resample, Moving Average ou Rolling, Exp Weighted Function ou Moyenne mobile exponentielle, Turtle Strategy
 
 4. Scikit-Learn :
-    LinearRegression(), KNeighborsClassifier, Train Test Split, Cross-Validation, Validation curve, 
-    Overfitting, Underfitting, GridSearchCV, Learning curve, KFold (LeaveOneOut), Shuffle Split,
+    LinearRegression(), KNeighborsClassifier, Train Test Split, 
+    Cross-Validation (KFold (LeaveOneOut), Shuffle Split, Stratified KFold, Group KFold), 
+    Validation curve, Overfitting, Underfitting, GridSearchCV, Learning curve, 
     Pipeline
 
 5. Métriques de regression :
